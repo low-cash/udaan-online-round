@@ -1,0 +1,56 @@
+[
+    {
+        "airline": "Airline1",
+        "source": 0,
+        "destination": 1,
+        "startTime": "10:00",
+        "endTime": "14:00",
+        "frequency": [1, 1, 1, 1, 1, 1],
+        "capacity": 100
+    },
+    {
+        "airline": "Airline2",
+        "source": 1,
+        "destination": 9,
+        "startTime": "11:00",
+        "endTime": "12:30",
+        "frequency": [1, 0, 1, 0, 0, 1],
+        "capacity": 100
+    },
+    {
+        "airline": "Airline3",
+        "source": 1,
+        "destination": 5,
+        "startTime": "21:00",
+        "endTime": "23:30",
+        "frequency": [1, 0, 1, 0, 1, 0],
+        "capacity": 100
+    },
+    {
+        "airline": "Airline1",
+        "source": 8,
+        "destination": 2,
+        "startTime": "01:00",
+        "endTime": "13:30",
+        "frequency": [1, 1, 1, 0, 1, 0],
+        "capacity": 100
+    },
+    {
+        "airline": "Airline2",
+        "source": 6,
+        "destination": 4,
+        "startTime": "06:00",
+        "endTime": "08:30",
+        "frequency": [0, 1, 1, 0, 1, 1],
+        "capacity": 100
+    },
+    {
+        "airline": "Airline3",
+        "source": 7,
+        "destination": 8,
+        "startTime": "09:00",
+        "endTime": "13:30",
+        "frequency": [0, 1, 0, 1, 0, 1],
+        "capacity": 100
+    }
+]
