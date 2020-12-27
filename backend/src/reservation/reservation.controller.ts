@@ -20,7 +20,7 @@ export class ReservationController {
     async getAllFlights(@Query() q){
         return this.reservationService.getAllFlights();
     }
-
+    // to addd user
     @Post("/addUser")
     async addUser(@Body() b){
         return this.reservationService.addUser(b.name);

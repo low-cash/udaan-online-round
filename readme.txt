@@ -8,6 +8,11 @@ in backend repo run
 
 Port used is 4000
 
+attached postman screenshot 
+make sure date format is mm/dd/yyyy
+
+for post queries all the details mentioned in screenshots
+
 ^6 flights details have been already added to backend
 -
 
